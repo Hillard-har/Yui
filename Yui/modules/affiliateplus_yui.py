@@ -21,7 +21,7 @@ class Yui_Affiliate():
             "birthplace": "Earth :)",
             "location": "New York",
             "build": "Stem - v1.0 (Affiliate+ Engine)",
-            "version": "Yui - v1.0",
+            "version": "Stem - v1.0",
             "celebrity": "Marshmello",
             "company": "Stem",
             "email": "sorry@i-dont-have-an-email.sad",
