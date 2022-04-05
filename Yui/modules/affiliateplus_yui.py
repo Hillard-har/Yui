@@ -20,15 +20,15 @@ class Yui_Affiliate():
             "birthdate": "December 15, 2006",
             "birthplace": "Earth :)",
             "location": "New York",
-            "build": "Yui - v1.0 (Affiliate+ Engine)",
+            "build": "Stem - v1.0 (Affiliate+ Engine)",
             "version": "Yui - v1.0",
             "celebrity": "Marshmello",
-            "company": "Yui",
+            "company": "Stem",
             "email": "sorry@i-dont-have-an-email.sad",
             "kindmusic": "Future bass"
         }
-        self.bot_name = "Yui"
-        self.dev_name = "Itz-fork"
+        self.bot_name = "Stem"
+        self.dev_name = "Abishikth Jos"
     
     async def ask_yui(self, message, user_id):
         c_message = await self.__prepare_message(message)
